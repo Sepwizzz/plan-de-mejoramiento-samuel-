@@ -1,0 +1,1 @@
+print("hola\n¿como estas?\nbien y ¿tu que tal?\nno me va mal gracias por preguntar")
